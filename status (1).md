@@ -1,29 +1,21 @@
 # Status Report
 
 #### Your name
-
-TODO
+Brandon Hyde
 
 #### Your section leader's name
-
-TODO
+David Cinhao Zhu
 
 #### Project title
+Chicken Crossing the Road
 
-TODO
-
-***
-
-Short answers for the below questions suffice. If you want to alter your plan for your project (and obtain approval for the same), be sure to email your section leader directly!
+Short answers for the below questions suffice. If you want to alter your plan for your project (and obtain approval for the same), be sure to email your section leader directly.
 
 #### What have you done for your project so far?
-
-TODO
+As far, we complete the coding process, dowing every png.files for our program. We are ready to submit and demo our project.
 
 #### What have you not done for your project yet?
-
-TODO
+There is error in the explosion class of our program.
 
 #### What problems, if any, have you encountered?
-
-TODO
+There is an error when chicken gets struck by a car. The chicken was supposed to create an explosion animation but there is error in the Explosion function.
